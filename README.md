@@ -5,11 +5,11 @@ Sou um amante do "Clean Code" e de boas práticas. Acredito que um código bem e
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wetty1&label=Profile%20views&color=0e75b6&style=flat" alt="wetty1" /> </p>
 
-- 🔭 Atualemte trabalho na **Cartões Vai Bem** 
+- 🔭 Atualemte trabalho em projetos pessoais
 
-- 🌱 Atualmente estou aprendendo **gRPC e AKS**
+- 🌱 Atualmente estou aprendendo sobre **Azure**
 
-- 💬 Pergunte me sobre **Nodejs, Nestjs, Flutter, Reactjs e Unity**
+- 💬 Pergunte me sobre **Nodejs, Nestjs, Flutter, Reactjs e Kubernetes**
 
 - 📫 Como me encontrar **contato.wesleydesousa@gmail.com**
 
